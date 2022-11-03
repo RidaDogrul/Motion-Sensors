@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">Sensor</string>
+        <string name="task_sensor">Task Sensor</string>
+        <string name="type_accelerometer">TYPE_ACCELEROMETER</string>
+        <string name="type_gravity">TYPE_GRAVITY</string>
+        <string name="type_gyroscope">TYPE_GYROSCOPE</string>
+        <string name="type_linear_acceleration">TYPE_LINEAR_ACCELERATION</string>
+        <string name="type_rotation_vector">TYPE_ROTATION_VECTOR</string>
+
+        <string name="phone">⚙ MAINTENANCE ⚙</string>
+        <string name="orie">This constant was deprecated in API level 32.\n
+use SensorManager.getOrientation() instead.</string>
+        <string name="sensor">Sensor</string>
+        <string name="about">About</string>
+        <string name="sensor_list">Sensor List</string>
+        <string name="Rida">Rida Doğrul \n 192010020079</string>
+        <string name="Didar">Didar Doğrul \n 192010020040</string>
+
+        <string name="pitch_sensor">Pitch Sensor: %1$.2f</string>
+        <string name="roll_sensor">Roll Sensor: %1$.2f</string>
+        <string name="no_sensor">No motion sensor available</string>
+
+    </resources>
